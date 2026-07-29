@@ -12,3 +12,6 @@
 
 - ## gazebo
 - https://illustrious-creek-ca7.notion.site/Go2-Gazebo-3a94bbef2db280ad888adfc7af308bf1?source=copy_link
+
+- ### 교육자료(by.김민경 멘토)
+-https://illustrious-creek-ca7.notion.site/Go2-Gazebo-3ac4bbef2db280679735f8cfa0f53ca7?source=copy_link
