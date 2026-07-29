@@ -9,3 +9,6 @@
 - 4장 turtlesim, rviz2 실습 완료
 - 5장 워크스페이스, 패키지 실습 완료
 - 6장 launch 파일 tf2 실습 완료
+
+- ## gazebo
+- https://illustrious-creek-ca7.notion.site/Go2-Gazebo-3a94bbef2db280ad888adfc7af308bf1?source=copy_link
